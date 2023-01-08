@@ -81,5 +81,3 @@
 // for(const arrayItem of buahSaya){
 //     console.log(arrayItem);
 // }
-
-console.log('Membuat Branch');
